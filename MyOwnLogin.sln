@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOwnLogin", "MyOwnLogin\MyOwnLogin.csproj", "{89DD626F-FB88-4F91-B212-41231F9B52C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOwnLogin.DataAccess", "MyOwnLogin.DataAccess\MyOwnLogin.DataAccess.csproj", "{F34E8687-D690-446A-900F-465BF830D749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOwnLogin.BusinesLogic", "MyOwnLogin.BusinesLogic\MyOwnLogin.BusinesLogic.csproj", "{114135DA-5CA2-44E9-B4A4-51DA9F03C96F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOwnLogin.Util", "MyOwnLogin.Util\MyOwnLogin.Util.csproj", "{D1EA20BC-735C-4DB4-A25F-6DCA7695F0D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOwnLogin.Core", "MyOwnLogin.Core\MyOwnLogin.Core.csproj", "{9EDBAA5D-216F-4F2D-8886-73707F74EF46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOwnLoginSqlDataAccess", "MyOwnLoginSqlDataAccess\MyOwnLoginSqlDataAccess.csproj", "{0084B5A6-90D3-45B3-A5B1-B608B38227EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89DD626F-FB88-4F91-B212-41231F9B52C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DD626F-FB88-4F91-B212-41231F9B52C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DD626F-FB88-4F91-B212-41231F9B52C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DD626F-FB88-4F91-B212-41231F9B52C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34E8687-D690-446A-900F-465BF830D749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34E8687-D690-446A-900F-465BF830D749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34E8687-D690-446A-900F-465BF830D749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34E8687-D690-446A-900F-465BF830D749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114135DA-5CA2-44E9-B4A4-51DA9F03C96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114135DA-5CA2-44E9-B4A4-51DA9F03C96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114135DA-5CA2-44E9-B4A4-51DA9F03C96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114135DA-5CA2-44E9-B4A4-51DA9F03C96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1EA20BC-735C-4DB4-A25F-6DCA7695F0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EA20BC-735C-4DB4-A25F-6DCA7695F0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1EA20BC-735C-4DB4-A25F-6DCA7695F0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1EA20BC-735C-4DB4-A25F-6DCA7695F0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EDBAA5D-216F-4F2D-8886-73707F74EF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDBAA5D-216F-4F2D-8886-73707F74EF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDBAA5D-216F-4F2D-8886-73707F74EF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDBAA5D-216F-4F2D-8886-73707F74EF46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0084B5A6-90D3-45B3-A5B1-B608B38227EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0084B5A6-90D3-45B3-A5B1-B608B38227EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0084B5A6-90D3-45B3-A5B1-B608B38227EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0084B5A6-90D3-45B3-A5B1-B608B38227EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {490E1680-9421-4C4A-97DE-FA93A0950703}
+	EndGlobalSection
+EndGlobal
